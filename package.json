@@ -17,7 +17,12 @@
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
-    "hubot-shipit": "^0.2.0"
+    "hubot-victory": "latest",
+    "hubot-thank-you": "latest",
+    "hubot-explainshell": "latest",
+    "hubot-meowme": "latest",
+    "hubot-yardmaster": "latest",
+    "hubot-jenkins-enhanced": "latest"
   },
   "engines": {
     "node": "0.10.x"
